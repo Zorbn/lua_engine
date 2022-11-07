@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.script": "lua",
+        "*.gui_script": "lua",
+        "*.render_script": "lua",
+        "*.editor_script": "lua",
+        "iostream": "cpp",
+        "stop_token": "cpp",
+        "xhash": "cpp"
+    }
+}
